@@ -1,2 +1,6 @@
-# corse.github.io
-start:https://www.123pan.com
+# Fire潮汐
+这个键位目前反馈链接就在这了，直到FCL
+停止开发为止
+
+目前Fire潮汐已经有了真正的完整全键，
+你在这里可以提前体验到下一个版本
